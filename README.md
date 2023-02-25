@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MohammedSaeed92/MohammedSaeed92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a freelance web developer .
 - 🌱 I’m currently learning python .
