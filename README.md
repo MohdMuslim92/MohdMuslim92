@@ -9,7 +9,7 @@ I am Mohammed Saeed, a full stack web developer with a bachelor degree in Manage
 🗣️ I do have passion for languages, currently i'm learning Japanese 🎌   
 
 - 🔭 I’m currently working as a freelance web developer .
-- 🌱 I’m currently learning python .
+- 🌱 I’m currently learning flutter .
 - 👯 I’m looking to collaborate on a huge project as a backend web developer.
 - 🤔 I’m looking for help with getting a permanent job (preferably remotely) .
 - 📫 How to reach me: you can reach me by email at mohammed.muslim2022@gmail.com .
